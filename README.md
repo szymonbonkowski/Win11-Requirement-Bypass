@@ -1,7 +1,5 @@
 # Win11-Requirement-Bypass 🚀  
 
-![preview](assets/preview.gif)
-
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue.svg)](#)
 [![Stars](https://img.shields.io/badge/stars-✨-yellow.svg)](#)
@@ -25,7 +23,7 @@
 
 
 ### 🚦 Quick start
-**Drag & drop** the ISO onto `Run.bat`
+**Drag & drop** the ISO onto `DropISOHere.bat`
 
 
 ### 🧠 Notes
@@ -49,7 +47,7 @@
 
 
 ### 🚦 Szybki start
-**Przeciągnij i upuść** obraz ISO na `Run.bat`
+**Przeciągnij i upuść** obraz ISO na `DropISOHere.bat`
 
 
 ### 🧠 Uwagi
