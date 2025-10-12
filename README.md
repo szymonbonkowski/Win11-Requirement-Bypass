@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue.svg)](#)
-[![Stars](https://img.shields.io/badge/stars-✨-yellow.svg)](#)
+[![Stars flat](https://img.shields.io/github/stars/szymon-bonkowski/Win11-Requirement-Bypass?style=flat&color=FFD700)](https://github.com/szymon-bonkowski/Win11-Requirement-Bypass/stargazers)
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11 Logo" width="120"/>
