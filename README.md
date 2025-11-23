@@ -30,6 +30,7 @@
 ### 🧠 Notes
 - This tool doesn’t modify your ISO or registry — it only runs setup with a specific parameter.  
 - Works for both clean installs and upgrades.  
+- ⚠️ **Renaming Files:** If you rename `RunInstaller.ps1`, you **MUST** update **line 9** inside `DropISOHere.bat` to match the new name. Otherwise, the script will fail.
 
 
 ## 🇵🇱 Wersja polska
@@ -54,5 +55,6 @@
 ### 🧠 Uwagi
 - Narzędzie nie modyfikuje obrazu ISO ani rejestru — uruchamia instalator z odpowiednim parametrem.  
 - Działa zarówno przy czystej instalacji, jak i aktualizacji.  
+- ⚠️ **Zmiana nazw plików:** Jeśli zmienisz nazwę pliku `RunInstaller.ps1`, **MUSISZ** zaktualizować **linię 9** wewnątrz pliku `DropISOHere.bat`, wpisując tam nową nazwę. W przeciwnym razie skrypt przestanie działać.
 
 ---
